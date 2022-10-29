@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-size: 18px;
+}
+
+header .blue {
+    color: blue;
+}
+
+body {
+    background-image: url("https://www.w3schools.com/css/img_tree.png");
+}
+
+#randomDiv {
+    padding: 15px;
+}
+
+#randomParagraph {
+    margin-left: 25px;
+}
+
+button {
+    margin-top: 38px;
+}
+
+img {
+    border: 5px dashed pink;
+    border-radius: 10px;
+}
